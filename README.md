@@ -6,4 +6,4 @@ I recently received a B.A. in Mathematics and Physics from Marlboro College in V
 
 My interests include Bayesian inference, machine learning, physical cosmology, and the neurophysics of consciousness.  I also have strong interests in the philosophy of science, especially the ethical and epistemological implications of artificial intelligence.
 
-I am eager to help increase BIPOC and LGBTQ+ representation and inclusion in STEM.  Please get in touch if you are able to share advice or experiences relating to this.
+I am also eager to help increase BIPOC and LGBTQ+ representation and inclusion in STEM.  Please get in touch if you are able to share advice or experiences relating to this.
